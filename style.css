@@ -1,0 +1,13 @@
+* {
+	background-image: url("Images-Videos/background.png");
+	text-align: center
+}
+
+p {
+	font-size: 15px;
+}
+
+br {
+	height: 10px;
+}
+
